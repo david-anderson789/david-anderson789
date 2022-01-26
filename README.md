@@ -1,6 +1,6 @@
 ### Olá, Eu sou o David Mendes⚡🚀!
 
-[![YOUTUBE](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCSNX_8FZKX8IfgCuyaplEgQ) [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/david-mendes-software-engineer) [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_boost/?utm_medium=copy_link)
+[![YOUTUBE](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCSNX_8FZKX8IfgCuyaplEgQ) [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_boost/?utm_medium=copy_link)
 
 ![David Mendes Github GitHub stats](https://github-readme-stats.vercel.app/api?username=david-anderson789&theme=radical)
 
